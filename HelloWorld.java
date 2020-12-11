@@ -4,7 +4,5 @@ class HelloWorld {
 
         System.out.println("Lines added for testing"); 
         System.out.println("Lines added for testing"); 
-        System.out.println("Lines added for testing"); 
-        System.out.println("Lines added for testing"); 
     }
 }
